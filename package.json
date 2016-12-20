@@ -1,0 +1,33 @@
+{
+  "name": "cordova-plugin-simple-toast",
+  "version": "1.0.0",
+  "description": "Simple Toast",
+  "cordova": {
+    "id": "cordova-plugin-simple-toast",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/six519/cordova-plugin-simple-toast.git"
+  },
+  "keywords": [
+    "cordova",
+    "toast",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova-plugman",
+      "version": ">=4.2.0"
+    }
+  ],
+  "author": "Ferdinand E. Silva",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/six519/cordova-plugin-simple-toast/issues"
+  },
+  "homepage": "https://github.com/six519/cordova-plugin-simple-toast#readme"
+}
